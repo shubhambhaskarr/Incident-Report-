@@ -8,6 +8,7 @@
   
   
 >This is about the day I learned excuses are for losers, met a guy who saw challenge in his limitations. Sometimes a small instance is all you need to change your attitude towards life and it was such instance for me.
+**************************
 
 
 </details>
@@ -31,6 +32,7 @@ I was working as a customer service officer for Indigo. At the time of our train
 - [x] CSO has to be in place to attend the passenger before ETA.
 
 - [x] Escort the passenger outside of the Airport.
+*************************
 </details>
 
 
@@ -38,8 +40,8 @@ I was working as a customer service officer for Indigo. At the time of our train
 <summary> Incident </summary>
 <br>
 It was a usual day at work, I reached on time and was on the check-in counter attending passengers when my manager came and told me that one visually challenged passenger is traveling in our flight which will be landing in 30 minutes and he wants me to attend the passenger. He shared all the details with me.
-
-I immediately took one of the helpers with me and left for the bay the flight was supposed to land.
+  
+I immediately took one of the helpers with me and left for the bay the flight was suppose to land.
 To reach there, we exited from boarding gate and took a cab. These cabs can only drive on the path assigned to them and there speed limit is 20 km/hr. So that even if they come in the flights way by mistake, pilot would have time to deflect and save the day.
 
 We reached the bay 10 mins before ETA and flight landed 5 mins before ETA. I entered the flight and confirmed with the crew, and went to the passengers seat and introduced myself. 
