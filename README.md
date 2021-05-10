@@ -1,11 +1,15 @@
-# <div align="centre">'Excuses are for losers'</div>
+# <div align="center">'Excuses are for losers'</div>
 ***************************************
 
 
 <details open>
 <summary> About </summary>
 <br>
-This is about the day I learned excuses are for losers, met a guy who saw challenge in his limitations. Sometimes a small instance is all you need to change your attitude towards life and it was such instance for me.
+  
+  
+>This is about the day I learned excuses are for losers, met a guy who saw challenge in his limitations. Sometimes a small instance is all you need to change your attitude towards life and it was such instance for me.
+
+
 </details>
 
 <details open>
@@ -13,20 +17,20 @@ This is about the day I learned excuses are for losers, met a guy who saw challe
 <br>
 I was working as a customer service officer for Indigo. At the time of our training we were taught about the procedure to follow when a VVIP or Specially abled passenger is traveling in one of our flights. So, the procedure goes like this:
   
-1. Onboard crew will inform the ground operations department about any such passenger.Details include:
+- [x] Onboard crew will inform the ground operations department about any such passenger.Details include:
   * Flight No.
   * Bay No. the flight will land on.
   * ETA (Expected time of arrival) of the flight.
   * Name of the passenger.
   * Seat No. he is traveling on.
 
-2. Manager on duty will assign a CSO (Customer service officer)to attend the passenger.
+- [x] Manager on duty will assign a CSO (Customer service officer)to attend the passenger.
 
-3. All the details will be given to that CSO and a helper will be assigned with him.
+- [x] All the details will be given to that CSO and a helper will be assigned with him.
 
-4. CSO has to be in place to attend the passenger before ETA.
+- [x] CSO has to be in place to attend the passenger before ETA.
 
-5. Escort the passenger outside of the Airport.
+- [x] Escort the passenger outside of the Airport.
 </details>
 
 
