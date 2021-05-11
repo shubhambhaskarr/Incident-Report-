@@ -50,7 +50,7 @@ I asked him if he wants his cabin bag to be carried he said “it’s ok, no nee
 
 Then I realised he was following my voice and then it was a smooth ride I didn’t feel for one bit that he is specially abled. I asked him sir isn’t it inconvenient to travel alone like this. Then he told me he works for some company and travels very frequently all over India and he is doing that for years.
 
-And in no time we were outside the airport. He said he will book uber to reach to his destination. And I was ready to it for him and then he took out his phone ‘a smart phone’. He had some voice assistant app enabled, his phone was speaking to him. He ordered his phone to open uber app and booked the ride. Spoke with the cab driver, co-ordinated with him. And I was watching him mesmerised by his efficacy. He was more self dependent than most abled people.  
+And in no time we were outside the airport. He said he will book uber to reach to his destination. And I was ready to do it for him and then he took out his phone ‘a smart phone’. He had some voice assistant app enabled, his phone was speaking to him. He ordered his phone to open uber app and booked the ride. Spoke with the cab driver, co-ordinated with him. And I was watching him mesmerised by his efficacy. He was more self dependent than most abled people.  
 
 He thanked me and I didn’t know what he was thanking me for because It didn’t feel like I helped. I was just there talking to him like a friend, moreover it felt like a break from work. And he boarded the cab and left.
 
