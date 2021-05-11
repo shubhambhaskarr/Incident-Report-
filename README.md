@@ -32,6 +32,8 @@ I was working as a customer service officer for Indigo. At the time of our train
 <h2><em>Incident</em></h2>
 <details open><summary></summary>
 <br>
+  
+  
 It was a usual day at work, I reached on time and was on the check-in counter attending passengers, when my manager came and told me that one visually challenged passenger is traveling in our flight which will be landing in 30 minutes and he wants me to attend the passenger. He shared all the details with me.
   
 
