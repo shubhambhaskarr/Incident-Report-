@@ -44,6 +44,8 @@ We reached the bay 10 mins before ETA and flight landed 5 mins before ETA. I ent
 “Hi sir, my name is shubham, I’ll be assisting you today.”
 
 “Hi Shubham, Thankyou.” he replied
+
+
 I asked him if he wants his cabin bag to be carried he said “it’s ok, no need. Thanks.” then he kept talking to me asking me about random things like my family, since when I’m working with the airlines. How’s my experience been? I tried holding his hand to make him follow me but he denied and said “there is no need shubham.” (he smiled)  
 
 Then I realised he was following my voice and then it was a smooth ride I didn’t feel for one bit that he is specially abled. I asked him sir isn’t it inconvenient to travel alone like this. Then he told me he works for some company and travels very frequently all over India and he is doing that for years.
