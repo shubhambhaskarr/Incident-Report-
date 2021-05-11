@@ -1,15 +1,15 @@
 # <div align="center">*'Excuses are for losers'*</div>
 ***************************************
-<details open><summary><h2><em>About</em></h2></summary>
+<h2><em>About</em></h2>
+<details open><summary> </summary>
 <br>  
 This is about the day I learned excuses are for losers, met a guy who saw challenge in his limitations. Sometimes a small instance is all you need to change your attitude towards life and it was such instance for me.
 
 
 **************************
 </details>
-
-<details open>
-<summary> <h2> <em>  Introduction </em> </h2>  </summary>
+<h2> <em>  Introduction </em> </h2>
+<details open><summary> </summary>
 <br>
 I was working as a customer service officer for Indigo. At the time of our training we were taught about the procedure to follow when a VVIP or Specially abled passenger is traveling in one of our flights. So, the procedure goes like this,
   
@@ -29,12 +29,9 @@ I was working as a customer service officer for Indigo. At the time of our train
 - [x] Escort the passenger outside of the Airport.
 *************************
 </details>
-
-
-<details open>
-<summary> <h2> <em> Incident </em><h2></summary>
+<h2><em>Incident</em></h2>
+<details open><summary></summary>
 <br>
-
 It was a usual day at work, I reached on time and was on the check-in counter attending passengers, when my manager came and told me that one visually challenged passenger is traveling in our flight which will be landing in 30 minutes and he wants me to attend the passenger. He shared all the details with me.
   
 
