@@ -41,9 +41,9 @@ To reach there, we exited from boarding gate and took a cab.(These cabs can only
 
 - [x] We reached the bay 10 mins before ETA and flight landed 5 mins before ETA. I entered the flight and confirmed with the crew, and went to the passengers seat and introduced myself. 
 
-“Hi sir, my name is shubham, I’ll be assisting you today.”
+      “Hi sir, my name is shubham, I’ll be assisting you today.”
 
-“Hi Shubham, Thankyou.” he replied
+      “Hi Shubham, Thankyou.” he replied
 
 
 - [x] I asked him if he wants his cabin bag to be carried he said “it’s ok, no need. Thanks.” then he kept talking to me asking me about random things like my family, since when I’m working with the airlines. How’s my experience been? I tried holding his hand to make him follow me but he denied and said “there is no need shubham.” (he smiled)  
@@ -61,9 +61,9 @@ To reach there, we exited from boarding gate and took a cab.(These cabs can only
 <details open><summary></summary>
 <br>
 
-* He made me a better person and taught me never to pity on myself, like we all do whenever we face hardships in life. 
-* Rather find solutions and make things work.
-* Technology can be life changing if use it the right way. 
+* Never to pity on ourselves, like we all do whenever we face hardships in life. 
+* Find solutions and make things work.
+* Technology can be life changing, if used the right way. 
 * No obstacle is big enough to stop you from reaching your goal.
 
 </details>
