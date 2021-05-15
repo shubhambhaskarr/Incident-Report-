@@ -37,7 +37,7 @@ I was working as a customer service officer for Indigo. At the time of our train
   
 
 - [x] I immediately took one of the helpers with me and left for the bay the flight was suppose to land.
-To reach there, we exited from boarding gate and took a cab.(These cabs can only drive on the path assigned to them and there speed limit is 20 km/hr. So that, even if they come in the flights way by mistake, pilot would have time to deflect and save the day.)
+To reach there, we exited from boarding gate and took a cab.(These cabs can only drive on the path assigned to them and their speed limit is 20 km/hr. So that, even if they come in the flights path by mistake, pilot would have time to deflect and save the day.)
 
 - [x] We reached the bay 10 mins before ETA and flight landed 5 mins before ETA. I entered the flight and confirmed with the crew, and went to the passengers seat and introduced myself. 
 
